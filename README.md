@@ -9,6 +9,7 @@ Solucoes das atividades de Linguagem C, uma pasta por aula:
 | `aula-16-strings/` | Strings: contador, fgets, vogais |
 | `aula-17-bibliotecas/` | `string.h`: strlen, strcmp, strcpy, strcat |
 | `aula-18-funcoes/` | Funcoes: calculadora, comparador, fatorial... |
+| `Aula20_Struct/` | Struct e typedef (entrega: `cadastro_funcionarios.c`) |
 | `aula-21-arquivos/` | Manipulacao de arquivos de texto |
 | `aula-22-ponteiros/` | Ponteiros |
 
