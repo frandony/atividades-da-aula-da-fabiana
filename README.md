@@ -14,3 +14,7 @@ Solucoes das atividades de Linguagem C, uma pasta por aula:
 | `aula-22-ponteiros/` | Ponteiros |
 
 Compilar e executar (exemplo): `gcc arquivo.c -o programa && ./programa`
+
+## Observacao
+
+O Claude (IA da Anthropic) foi utilizado para organizar o trabalho em pastas.
